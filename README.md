@@ -1,4 +1,4 @@
- Hi, I'm Fatima 
+ Hi, I'm Fatima. 
 I'm a Web Designer & WordPress Developer passionate about creating responsive, modern business websites using WordPress, Elementor, and WooCommerce.
 
 Skills
@@ -8,8 +8,8 @@ Skills
   
 I have build many projects by usning HTML, CSS, JS and PHP. I can also build business websites and ECommerce stores using WordPress tools. You can visit my profile on Fiverr and also can see my projects in reposteries here.
 
- Connect With Me
-  Fiverr : https://www.fiverr.com/s/Gz424Lq
+ Connect With Me.
+  [Fiverr : https://www.fiverr.com/s/Gz424Lq]
 
   
   
